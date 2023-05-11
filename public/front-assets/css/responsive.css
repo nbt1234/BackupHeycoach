@@ -1,0 +1,1604 @@
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+.spent-1 {
+    font-size: 11px;
+    min-height: 150px;
+}
+.spent-1 span {
+    width: 70%;
+    padding: 5px;
+}
+.transport label {
+    font-size: 14px;
+}
+.transport input::placeholder{
+	font-size: 14px;
+}
+.transport input {
+    padding: 3px 7px;
+    
+}
+.thought {
+    padding: 30px 15px;
+}
+
+
+
+.thoughtTo {
+    flex-direction: column;
+}
+.thoughtTo input{
+	width: 60%;
+	margin: 5px 0px;
+}
+.spent-1 span{
+	width: 100%;
+}
+.My_Goal, .debt {
+    padding: 12px 10px;
+    font-size: 14px;
+}
+.Timeframe, .Monthly_Goal_Amount, .Monthly_Goal_AmountThree {
+	    padding: 10px 0px 0px 10px;
+    font-size: 14px;
+   
+}
+.TimeframeTO, .Monthly_Goal_AmountTO, .TimeframeLast {
+    font-size: 14px;
+   
+}
+
+.digital-img img{
+	padding-left: 0px;
+	width: auto;
+}
+.tabs_ineer.really {
+    padding: 40px 20px 70px 20px;
+}
+
+#chartdiv::before {
+    font-size: 18px!important;
+    left: -65px!important;
+}
+
+#chartdiv::after {
+    font-size: 17px!important;
+    width: 100%!important;
+    text-align: center;
+}
+
+#chartdiv{
+	margin-top: 50px;
+}
+
+.User_Details_TopBar P {
+    text-align: justify;
+}
+
+.overview-ineer p {
+    line-height: 13px;
+    font-size: 13px;
+}
+
+
+ul.main_menus li ul{
+   left: 0;
+   right: auto;
+}
+
+ul.main_menus li:last-child:hover > ul{
+	width: 150px;
+	right: 0;
+	left: auto;
+}
+
+
+
+
+
+
+
+
+
+.tabs_ineer table tbody tr td.CategoryThree input{
+	    padding: 15px 10px;
+	    width: 100%;
+}
+.total-part h6 {
+    padding: 12px 0px;
+    padding-left: 5px;
+    font-size: 10px;
+}
+.total-part.partto h6 {
+    padding: 18px 0px;
+}
+.tabs_ineer table tbody tr td.CategoryFore input{
+	padding: 24px 10px;
+}
+.tabs_ineer table tbody tr th h3{
+	font-size: 16px;
+	font-weight: 400;
+	padding: 8px 0px;
+}
+.Monthly h3,th.Weekly h3 {
+    padding: 8px 5px !important;
+    width: 140px !important;
+}
+th.Notes h3{
+	padding: 17px 0px !important;
+    width: 120px!important;
+
+}
+.tabs_ineer table tbody tr td.CategoryFore p {
+    width: 300px !important;
+}
+.tabs_ineer table tbody tr td.CategoryOne h6,.tabs_ineer table tbody tr td.CategoryTo h6,
+.tabs_ineer table tbody tr td.CategoryThree h6{
+	font-size: 18px;
+}
+.tabs_ineer table tbody tr td.CategoryOne h6{
+	padding: 23px 0px 23px 10px;
+}
+.tabs_ineer table tbody tr td.CategoryTo h6,
+.tabs_ineer table tbody tr td.CategoryThree h6{
+	padding: 23px 0px 23px 10px;
+}
+.total-part h5{
+    font-size: 13px;
+    width: 150px;
+    padding: 17.5px 0pc;
+}
+.total-part.partto h5 {
+    padding: 25px 0px;
+}
+
+	
+
+
+
+
+
+
+
+
+
+
+/*.tabs_ineer table tbody tr td.CategoryFore p {
+    width: 300px !important;
+}
+.tabs_ineer table tbody tr td.CategoryOne h6,.tabs_ineer table tbody tr td.CategoryTo h6,
+.tabs_ineer table tbody tr td.CategoryThree h6{
+	font-size: 18px;
+}
+.tabs_ineer table tbody tr td.CategoryOne h6{
+	padding: 23px 0px 23px 10px;
+}
+.tabs_ineer table tbody tr td.CategoryTo h6,
+.tabs_ineer table tbody tr td.CategoryThree h6{
+	padding: 23px 0px 23px 10px;
+}
+.total-part h5{
+    font-size: 13px;
+    width: 150px;
+    padding: 17.5px 0pc;
+}
+.total-part.partto h5 {
+    padding: 25px 0px;
+}*/
+
+
+.Videos_Library {
+    padding: 70% 0px 40px 0px;
+}
+.More_Video button{
+	margin-top: 50px;
+
+}
+.Choes_Goals ul li{
+	font-size: 18px;
+    padding: 6px 12px;
+}
+.platform-main{
+	position: unset ;
+}
+.internet p.MsoNormal span {
+    text-align: left;
+    padding-top: 10px;
+}
+.support-section {
+    margin-top: 0%;
+}
+ul.main_menus li ul{
+	width: 100%;
+	right: 0;
+}
+.avatar-upload .avatar-preview{
+    height: 132px;
+	width: 132px;
+} 
+.avatar-upload .avatar-edit input + label:after{
+	top: 5px;
+}
+.profile-main-text {
+    padding-left: 10px;
+}
+ul.main_menus{
+	margin-bottom: 0px;
+	display: flex;
+	justify-content: end;
+}
+ul.main_menus li{
+	width: 30px;
+}
+.next-btn{
+	padding: 11px 50px;
+}
+.Sing_In_Main{
+	width: 100%;
+}
+.Sing_In_Main .tabs_ineer{
+	padding: 20px;
+}
+.RememberMe{
+	font-size: 12px;
+}
+.My_Goals_Heading {
+    padding-top: 30px;
+}
+.My_Goals_Section{
+	padding: 30px 10px;
+}
+
+.My_Goals_Section .sorting{
+	padding-right: 0px !important;
+	font-size: 12px;
+	text-align: center;
+
+}
+.profile-main-text h5 {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.contact-information-section h3 {
+    font-size: 26px;
+    padding: 30px 0px;
+}
+span.bullet,.bullet-1,.bullet-2{
+	padding-left: 0px;
+}
+.Information-details_One{
+	padding-left: 0px;
+}
+#step-7-success-popup .modal-body p{
+       padding: 15px;
+    font-size: 26px;
+    line-height: 30px;
+
+}
+#step-7-success-popup .modal-body h3{
+       font-size: 46px;
+}
+#step-7-success-popup .modal-body{
+	padding: 50px 0;
+}
+
+
+
+.sing-up ul li:after{
+	content: unset;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+	clip-path: unset;
+}
+.video-box i{
+	margin: auto;
+}
+.logo_section img{
+	width: 100%;
+} 
+.Header_Icon i{
+	padding: 0px 10px;
+}
+.wellcome-section {
+    padding: 20px 10px 25px 10px;
+}
+.wellcome-innner{
+	width: 100%;
+}
+h2 {
+	font-size: 36px !important;
+}
+.well-come-icon-section {
+   top: 50%;
+   width: 80px;
+   height: 80px;
+   border: 5px solid #fff;
+}
+.Welcome_Btn button{
+	padding: 15px 0px;
+	width: 50%;
+}
+.login-btn-2{
+	margin-top: 15px;
+}
+.wellcome-section{
+	margin-top: 50px;
+}
+
+.sing-up ul li{
+	width: 100%;
+	border-bottom: 1px solid #ced1d1;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+	text-align: left !important;
+}
+.sing-up{
+	margin-top: 50px;
+}
+.tabs_ineer {
+    padding: 20px 10px 30px 10px;
+}
+
+.form-label-text label,.age label span{
+	font-size: 14px;
+}
+.age input{
+	width: 20px;
+	height: 20px;
+}
+.age label{
+	padding-left: 10px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+	clip-path: none;
+	border-radius:unset !important;
+}
+
+.sing-up ul li:first-child a.active{
+	clip-path: none;
+}
+.form-label-text input::placeholder{
+	font-size: 14px;
+}
+.form-label-text input, select{
+	border-radius: 3px;
+	padding: 10px;
+}
+.sing-up ul li a{
+	padding: 10px 12px;
+}
+.tabs_ineer p{
+	width: 100%;
+	min-width: 100%;
+	line-height: 29px;
+}
+.payment-method input {
+    width: 18px;
+    height: 18px;
+}
+.payment-method{
+	font-size: 16px;
+}
+.video-box i{
+	width: 80px;
+	height: 80px;
+}
+.tabs_ineer p.Please-text{
+	font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+.video-box {
+    padding-top:10px;
+}
+.booking {
+    flex-direction: column;
+}
+p.coaching {
+    text-align: center;
+    padding-top: 10px;
+}
+.form-label-text select{
+	font-size: 14px;
+}
+#Action_Plan .tabs_ineer .monthly_heding {
+    font-size: 36px !important;
+}
+.total-section h3,.total-section h4{
+	font-size: 18px;
+}
+.transport-2 span img {
+    right: 4px;
+    width: 16px;
+    top: 42%;
+}
+.actually-transport-3 span img{
+	left: 4px;
+}
+.actual-spend h3{
+	font-size: 13px;/*
+    min-height: 67px;*/
+}
+.actually-transport-2 p{
+	font-size: 14px;
+	padding: 14px;
+}
+.booking_email {
+    margin-top: 40px;
+}
+.actually-transport p{
+	font-size: 14px;
+	padding: 0px 0px 0px 3px;
+}
+.actually-transport-2 span img {
+    position: absolute;
+    top: 30%;
+    right: 5px;
+    width: 15px;
+    top: 41%;
+}
+.total-section{
+	padding: 16px 15px;
+}
+.bookin-btn,.bookin-btn-1 {
+    width: 140px;
+    font-size: 16px;
+   
+}
+.next-btn{
+	margin-top: 40px;
+}
+.actually-transport p:after {
+    width: 12px;
+    height: 12px;
+    right: 3px;
+}
+
+.your-goal-section.goal-pading-1 {
+    padding-right: 0px;
+}
+.your-goal-section.goal-pading-2{
+	padding: 0px;
+}
+.your-goal-section.goal-pading-3{
+	padding-left: 0;
+}
+.range_slider-section {
+    padding: 50px 0px!important;
+    position: unset!important;
+    transform: rotate(0deg)!important;
+}
+
+.progress-bar-graph .range_slider-section .progress {
+    border-radius: 1.25rem !important;
+    height: 40px;
+    width: 100%!important;
+}
+.range_slider-section h4 {
+    font-size: 15px!important;
+    width: 100%!important;
+}
+.progress-bar-graph .range_slider-section span:first-child {
+    transform: rotate(0deg);
+    margin-top: 10px;
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    font-size: 14px;
+}
+.progress-bar-graph .range_slider-section span:last-child {
+    transform: rotate(0deg);
+    margin-top: 20px;
+    position: absolute;
+    top: 100px;
+    font-size: 14px;
+    right: 5px;
+}
+.range-monthly {
+    padding-top: 40px;
+}
+.Weekly_Check h4 {
+    font-size: 26px;
+   
+}
+.Weekly_Check_Ineer{
+	padding: 20px;
+}
+.range-ineer span {
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+.Weekly_Check_Ineer p{
+	font-size: 18px;
+}
+.notes-section p{
+	padding: 20px;
+}
+.Congratulations_Text{
+	font-size: 40px;
+	word-break: break-all;
+}
+.tabs_ineer p.achievement{
+	font-size: 30px;
+	line-height: 40px;
+	width: 100%;
+}
+.great-work h3{
+	font-size: 46px;
+}
+.great-work{
+	padding: 50px 0px;
+}
+.great-work p{
+	padding: 15px;
+	font-size: 26px;
+	line-height: 30px;
+}
+/*=============================About_Page_Start=================================*/
+.upper-section{
+	position: unset;
+	margin:15px auto auto auto;
+	width: 200px;
+	height: 200px;
+}
+.upper-section p{
+	font-size: 18px !important;
+	line-height: 24px !important;
+
+}
+.platform-text p{
+	font-size: 24px;
+	line-height: 32px;
+}
+.support-section .coach-main {
+    display: block !important;
+    margin: auto;
+}
+.coach-section{
+	position: unset;
+	margin:15px auto  auto  auto ;
+}
+.digital-img {
+    text-align: center;
+}	
+.internet {
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    color: #fff;
+}
+.internet span{
+	float: left;
+	padding-bottom: 0px;
+    font-size: 18px;
+
+}
+.internet p{
+	float: left;
+	text-align: left;
+	    line-height: 28px;
+    font-size: 18px;
+}
+.Choes_ineer ul li{
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+.Choes_ineer input {
+    width: 20px;
+    height: 20px;
+}
+.mean-ineer {
+    background: #02a19a;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+.mean-ineer h3,.Different h3{
+	font-size: 24px;
+}
+.mean-ineer ul {
+    padding: 20px 0px 0px 18px;
+}
+.outcomes {
+    padding-bottom: 30px;
+}
+/*=============================About_Page_End=================================*/
+
+
+
+/*=============================Contact_Page_Start=================================*/
+	.form-section {
+    padding: 50px 0px;
+}
+.form-ineer {
+    padding: 20px;
+}
+.form-ineer h3{
+	font-size: 28px;
+}
+.form-part label{
+	padding-top: 15px;
+}
+.form-part input {
+    padding: 5px;
+}
+.form-btn button {
+    padding: 8px 50px;
+    font-size: 20px;
+    margin: 30px 0px 0px 15px;
+}
+
+
+
+
+
+/*=============================Contact_Page_End=================================*/
+}
+@media only screen and (min-width: 375px) and (max-width: 520px) {
+	.Pay_Of img {
+    width: 70% !important;
+}
+.spent-1 span{
+	width: 100%;
+}
+}
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+
+	.Videos_Library {
+    padding: 40% 0px 40px 0px;
+}
+.spent-1 span{
+	width: 70%;
+}
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
+.Action_Notes p {
+    line-height: 67px;
+}
+.booking {
+    flex-direction: column;
+}
+.spent-1 {
+    font-size: 24px;
+    
+}
+	.thoughtTo input{
+	width: 20%;
+	margin: 5px 10px;
+}
+
+	.Videos_Library {
+    padding: 30% 0px 40px 0px;
+}
+.support-section {
+    margin-top: 23%;
+}
+.Choes_Goals ul li {
+    font-size: 18px;
+    padding: 6px 12px;
+}
+
+ul.main_menus li:hover > ul, ul.main_menus li ul:hover{
+	left: 15px;
+	min-width: 150px;
+}
+
+ul.main_menus li:last-child:hover > ul{
+	left: auto;
+	right: 0px;
+}
+
+.Library_Main {
+    margin-top: 35px;
+}
+.Sing_In_Main{
+	width: 60%;
+}
+
+span.bullet,.bullet-1,.bullet-2{
+	padding-left: 0px;
+}
+.Information-details_One{
+	padding-left: 0px;
+}
+
+
+	#step-7-success-popup .modal-dialog{
+	max-width: 660px !important;
+	margin: auto;
+}
+#step-7-success-popup .modal-body h3{
+
+    font-size: 70px;
+
+}
+#step-7-success-popup .modal-body p{
+     font-size: 30px;
+    line-height: 36px;
+    padding: 15px
+
+}
+#step-7-success-popup .modal-body{
+	padding: 50px ;
+}
+
+
+.sing-up ul li:after{
+	content: unset;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+	clip-path: unset;
+}
+.wellcome-innner{
+	width: 100%;
+}
+.wellcome-section{
+	margin-top: 80px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+	clip-path: none;
+	border-radius:unset !important;
+
+}
+
+.sing-up ul li:first-child a.active{
+	clip-path: none;
+}
+.sing-up ul li{
+	width: 100%;
+	border-bottom: 1px solid #ced1d1;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
+	text-align: left !important;
+}
+.form-label-text input, select{
+	border-radius: 3px;
+	padding: 9px 13px;
+
+}
+h2 {
+	font-size: 46px !important;
+}
+.choose_sec label {
+    font-size: 14px;
+}
+.actual-spend h3{
+	font-size: 13px;
+}
+.col-lg-4.col-6.px-lg-1.actual-spend,.col-lg-4.col-6.pl-lg-0.pr-lg-1.actual-spend.actual-spend-2,
+.col-lg-4.col-6.pl-lg-0.pr-lg-1.actual-spend.actual-spend-2,
+.col-lg-4.col-6.pl-lg-0.pr-lg-1.actual-spend.actual-spend-2 {
+    padding: 0 4px;
+}
+.actually-transport-2 p, .actually-transport p {
+    font-size: 18px;
+    padding: 10px;
+    height: 66px;
+    line-height: 40px;
+}
+.actually-transport-2 span img {
+    top: 38%;
+    right: 4px;
+    width: 20px;
+}
+.actually-transport-3 span img{
+	left: 4px;
+}
+.total-section h3,.total-section h4{
+	font-size: 20px;
+}
+.total-section{
+	padding: 15px;
+}
+.booking_email {
+    margin-top: 50px;
+}
+#Action_Plan .tabs_ineer .monthly_heding {
+    font-size: 46px !important;
+}
+.your-goal-section.goal-pading-1,.your-goal-section.goal-pading-2,.your-goal-section.goal-pading-3{
+	padding: 0px;
+}
+.your-goal-section h4,.your-goal-section h3,.your-goal-section h4{
+	font-size: 22px;
+	padding: 24px 0px;
+}
+.range_slider-section{
+	padding: 50px 0px;
+}
+.progress-bar-graph .range_slider-section h4 {
+    font-size: 20px;
+    width: 395px;
+    text-align: center;
+}
+.range-ineer{
+	padding-top: 10px;
+}
+.Weekly_Check h4{
+	font-size: 28px;
+}
+.Weekly_Check_Ineer p{
+	font-size: 20px;
+}
+.Congratulations_Text{
+	font-size: 40px;
+	word-break: break-all;
+}
+.tabs_ineer p.achievement{
+	font-size: 30px;
+	line-height: 40px;
+	width: 100%;
+}
+.great-work h3 {
+    font-size: 70px;
+   
+}
+.great-work{
+	padding: 50px 0px;
+}
+.great-work p {
+    font-size: 30px;
+   
+    line-height:36px;
+    padding: 15px;
+}
+/*=============================About_Page_Start=================================*/
+.platform-text {
+    text-align: left;
+}
+.platform-text p{
+	font-size: 28px;
+}
+.upper-section p {
+    text-align: center;
+    font-size: 24px;
+}
+.upper-section{
+	width: 250px;
+	height: 250px;
+}
+.coach-section {
+    width: 170px;
+    height: 170px;
+   right: 22%;
+    top: 30px;
+}
+.digital-img img {
+    width: 70%;
+    padding-left: 0;
+}
+.coach-section p{
+	font-size: 20px;
+
+}
+.Choes_ineer ul li{
+	font-size: 18px;
+	padding-bottom: 8px;
+}
+.Choes_Goals {
+    padding-top: 40px;
+}
+.internet p{
+	line-height: 35px;
+}
+.internet span{
+	padding: 20px 0px 0px 0px;
+}
+.mean-ineer ul {
+    padding: 20px 0px 0px 18px;
+}
+
+
+/*=============================About_Page_End=================================*/
+
+
+/*============================================Action_Plan_Start==============================================*/
+.tabs_ineer table tbody tr th h3{
+	font-size: 14px;
+	padding: 15px 0px !important;
+}
+/*.tabs_ineer table tbody tr th h3{
+	
+}*/
+.tabs_ineer table tbody tr td.CategoryOne h6,
+.tabs_ineer table tbody tr td.CategoryTo h6,
+.tabs_ineer table tbody tr td.CategoryThree h6{
+	font-size: 18px;
+	padding: 12px 0px 12px 20px;
+}
+.tabs_ineer table tbody tr td.CategoryFore p{
+    padding: 11px 0px;
+    font-size: 10px;
+    line-height: 12px !important;
+
+}
+.total-part h6 {
+    padding: 11px 0px;
+    font-size: 14px;
+    padding-left: 20px;
+}
+.total-part.partto h6 {
+    padding: 20px 0px;
+}
+/*============================================Action_Plan_End==============================================*/
+.tabs_ineer table tbody tr td.CategoryFore input{
+	padding: 14px 10px;
+}
+.tabs_ineer table tbody tr td.CategoryThree input{
+	padding: 6px 10px;
+}
+
+.tabs_ineer.Action_Second table tbody tr th {
+    min-width: 220px;
+}
+
+.step8_form .tabs_ineer.Action_Second table tbody tr th {
+    min-width: 220px;
+}
+
+#chartdiv::before {
+    font-size:21px!important;
+    left: -95px!important;
+}
+
+#chartdiv::after {
+    font-size:21px!important;
+    width: 100%!important;
+    text-align: center;
+}
+
+.progress-bar-graph .range_slider-section span:last-child {
+    transform: rotate(90deg);
+    margin-top: 20px;
+    position: absolute;
+    top: 77px;
+    right: -230px;
+}
+
+} 
+
+
+
+@media only screen and (min-width:992px) and (max-width:1024px) {
+	.your-goal-section h3{
+		font-size: 18px;
+	}
+	.bottom-btn a {
+    font-size: 12px;
+}
+	.spent-1 span{
+		width: 60%;
+	}
+	.Different ul {
+    padding-left: 20px;
+}
+.coach-section{
+	top: -20px;
+}
+.Videos_Library {
+    padding: 25% 0px 40px 0px;
+}
+
+.tabs_ineer.Action_Second table tbody tr td.CategoryFore p {
+    padding: 5px;
+    font-size: 10px;
+    height: 69px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    background: #e7ebee;
+}
+
+/*=============================About_Page_Start=================================*/
+.platform-text{
+	text-align: left;
+}
+.upper-section p{
+	text-align: center;
+}
+.support-section {
+    margin-top: 24%;
+}
+/*=============================About_Page_End=================================*/
+
+.next-btn{
+	padding: 11px 51px;
+	margin-top: 20px;
+}
+
+	#step-7-success-popup .modal-dialog{
+	max-width: 875px !important;
+	margin: auto;
+}
+#step-7-success-popup .modal-body h3{
+
+    font-size: 65px;
+
+}
+#step-7-success-popup .modal-body p{
+     font-size: 32px;
+    line-height: 36px;
+    padding: 15px
+
+}
+#step-7-success-popup .modal-body{
+	padding: 70px ;
+}
+
+
+
+
+.sing-up ul li a {
+    padding: 12px 16px;
+}
+.sing-up ul li:after{
+	height: 57px;
+}
+h2 {
+	font-size: 42px !important;
+}
+.sing-up{
+	margin-top: 70px;
+}
+.tabs_ineer .section-padding-custome {
+    padding: 0px 20px;
+}
+.payment-method{
+	font-size: 16px;
+}
+#Action_Plan .tabs_ineer .monthly_heding {
+    font-size: 42px !important;
+}
+
+.range_slider-section{
+	padding: 50px 0px;
+}
+.range_slider-section h4,.Weekly_Check h4{
+	font-size: 30px;
+}
+.your-goal-section.goal-pading-1{
+	padding-right:20px ;
+}
+.your-goal-section.goal-pading-2{
+	padding: 0px 20px;
+}
+.your-goal-section.goal-pading-3{
+	padding-left: 20px;
+}
+.Congratulations_Text{
+	font-size: 40px;
+	word-break: break-all;
+}
+.tabs_ineer p.achievement{
+	font-size: 30px;
+	line-height: 40px;
+	width: 100%;
+}
+
+/*============================================Action_Plan_Start==============================================*/
+.total-part h6{
+	font-size: 22px;
+}
+.tabs_ineer table tbody tr td.CategoryFore p{
+	font-size: 13px;
+}
+.total-part.partto h6 {
+    padding: 20px 0px;
+}
+.tabs_ineer table tbody tr th h3 {
+    font-size: 14px;
+    padding: 15px 0px !important;
+}
+.tabs_ineer table tbody tr td.CategoryOne h6,
+ .tabs_ineer table tbody tr td.CategoryTo h6,
+  .tabs_ineer table tbody tr td.CategoryThree h6 {
+    font-size: 18px;
+    padding: 12px 0px 12px 20px;
+}
+.total-part h6 {
+    padding: 11px 0px;
+    font-size: 14px;
+    padding-left: 20px;
+}
+.tabs_ineer table tbody tr td.CategoryThree input{
+	padding: 4px 10px;
+}
+.tabs_ineer table tbody tr td.CategoryFore input{
+	padding: 13px 10px;
+}
+
+/*============================================Action_Plan_End==============================================*/
+
+}
+
+
+@media only screen and (min-width:1025px) and (max-width:1280px) {
+	.Different ul {
+    padding-left: 20px;
+}
+.spent-1 span{
+		width: 60%;
+	}
+	.coach-section{
+	top: -20px;
+}
+	/*.tabs_ineer table tbody tr th.Weekly h3 {
+    padding: 9px 0px;
+}*/
+	#step-7-success-popup .modal-dialog{
+	max-width: 905px !important;
+	margin: auto;
+}
+#step-7-success-popup .modal-body h3{
+
+    font-size:80px;
+
+}
+#step-7-success-popup .modal-body p{
+     font-size: 32px;
+    line-height: 36px;
+    padding: 15px
+
+}
+#step-7-success-popup .modal-body{
+	padding: 70px ;
+}
+
+
+.Congratulations_Text{
+	font-size: 44px;
+	word-break: break-all;
+}
+.tabs_ineer p.achievement{
+	font-size: 32px;
+	line-height: 40px;
+	width: 60%;
+}
+.support-section {
+    margin-top: 24%;
+}
+/*============================================Action_Plan_Start==============================================*/
+.total-part h6{
+	font-size: 22px;
+}
+.tabs_ineer table tbody tr td.CategoryFore p{
+	font-size: 13px;
+}
+.total-part.partto h6 {
+    padding: 36px 0px;
+}
+
+.tabs_ineer.Action_Second table tbody tr th {
+    min-width: 220px;
+}
+
+.tabs_ineer table tbody tr th h3{
+	font-size: 17px;
+}
+
+
+/*============================================Action_Plan_End==============================================*/
+}
+
+
+
+@media only screen and (min-width:1281px) and (max-width:1366px) {
+.Congratulations_Text{
+	font-size: 44px;
+	word-break: break-all;
+}
+.tabs_ineer p.achievement{
+	font-size: 32px;
+	line-height: 40px;
+	width: 60%;
+}
+.support-section {
+    margin-top: 16%;
+}
+
+.tabs_ineer.Action_Second table tbody tr th {
+     min-width: 160px; 
+     max-width: 160px; 
+    background: #00a19a;
+    border: 2px solid #fff;
+}
+
+.tabs_ineer table tbody tr th h3{
+	font-size: 14px;
+}
+
+}
+
+
+td.total-part {
+    background: #d7d7d7;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 767px) { 
+
+/*==============  05 sept. start ===============*/
+
+
+.step8_form table tbody tr td.CategoryFore input{
+	padding: 14px 10px;
+}
+.step8_form table tbody tr td.CategoryThree input{
+	padding: 6px 10px;
+}
+
+/*
+.step8_form table tbody tr th {
+    min-width: 220px!important;
+    background: #173854;
+    border: 3px solid #fff;
+}
+*/
+.step8_form .total-part h6 {
+    padding: 11px 0px;
+    font-size: 21px;
+    padding-left: 20px;
+}
+		/*.step8_form tbody tr:last-child td {
+		    background: #005a56;
+		    border: 3px solid #FFF;
+		}
+*/
+.step8_form table tbody tr td.CategoryThree, .step8_form table tbody tr td.CategoryFore{
+    background: #d9f1f0;
+    border: 3px solid #fff;
+}
+
+
+/*==============  05 sept. end ===============*/
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) { 
+
+
+/*==============  05 sept. start ===============*/
+
+
+.step8_form table tbody tr td.CategoryFore input{
+	padding: 14px 10px;
+}
+.step8_form table tbody tr td.CategoryThree input{
+	padding: 6px 10px;
+}
+
+.progress-bar-graph .range_slider-section {
+    top: 370px!important;
+}
+
+.progress-bar-graph .range_slider-section .progress {
+    width: 395px;
+}
+
+.step8_form table tbody tr th {
+    min-width: 220px!important;
+    background: #173854;
+    border: 3px solid #fff;
+}
+.step8_form .total-part h6 {
+    padding: 11px 0px;
+    font-size: 21px;
+    padding-left: 20px;
+	}/*
+	.step8_form tbody tr:last-child td {
+	    background: #005a56;
+	    border: 3px solid #FFF;
+	}
+*/
+/*==============  05 sept. end ===============*/
+
+.step8_form tbody tr td.CategoryThree, .step8_form tbody tr td.CategoryFore{
+	 background: #d9f1f0;
+	 border:3px solid #fff;
+}
+
+
+.step8_form tbody tr td.CategoryThree input, .step8_form tbody tr td.CategoryFore input{
+	padding: 0!important;
+}
+}
+
+
+@media screen and (min-width: 1024px) and (max-width: 1365px) { 
+
+.sing-up ul li a{
+	font-size: 14px;
+}
+
+.overview-ineer p {
+    line-height: 21px;
+    font-size: 14px;
+}
+/*==============  05 sept. start ===============*/
+
+
+.step8_form table tbody tr td.CategoryFore input{
+	padding: 14px 10px;
+}
+.step8_form table tbody tr td.CategoryThree input{
+	padding: 6px 10px;
+}
+
+
+.step8_form table tbody tr th {
+    min-width: 220px!important;
+    background: #173854;
+    border: 3px solid #fff;
+}
+
+/*==============  05 sept. end ===============*/
+
+.step8_form .total-part h6 {
+    padding: 11px 0px;
+    font-size: 21px;
+    padding-left: 20px;
+}
+.step8_form tbody tr:last-child td {
+    background: #005a56;
+    border: 3px solid #FFF;
+}
+
+}
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width:575px) {
+.logo_section {
+    text-align: center;
+}
+
+.logo_section img {
+    width: 65%;
+    margin: 15px auto;
+}
+
+ul.main_menus {
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 30px;
+}
+
+ul.main_menus li ul{
+	width: 150px;
+}
+
+
+
+ul.main_menus .submenu{
+	margin:0 8px ;
+}
+
+
+}
+
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 767px) { 
+
+
+/*======= 13/12/2022 ========*/
+
+.range_slider-section .progress {
+    height: 30px;
+}
+
+.main-table-bl {
+    overflow-x: scroll;
+}
+
+
+
+.tabs_ineer .col-lg-4.px-1, .col-lg-4.col-6{
+	max-width: 100%;
+}
+
+.range_slider-section .progress-bar {
+    font-size: 13px;
+}
+
+/*.table-bl .col-lg-4:first-child, .table-bl .col-lg-4:last-child, .table-bl .col-lg-4:nth-child(2),  .table-bl .col-lg-4:nth-child(3),
+ .table-bl .col-lg-4:nth-child(4) {
+    padding: 2px 0!important;
+}
+*/
+
+.popup-on-hover .img{
+	z-index: auto!important;
+}
+
+.popup-on-hover .hello ol {
+    margin-left: 10px!important;
+}
+
+.popup-on-hover .hello span {
+    box-shadow: 0 0 10px;
+}
+
+.table-bl{
+	flex-wrap: inherit!important;
+}
+
+.table-bl .col-lg-4 {
+    max-width: 200px;
+    padding: 2px;
+    min-width: 200px;
+}
+
+/*======= 13/12/2022 ========*/
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width:991px) { 
+
+
+/*======= 13/12/2022 ========*/
+
+.progress-bar-graph .range_slider-section .progress {
+    border-radius: 1.25rem !important;
+    height: 40px;
+    width: 395px;
+}
+
+
+.tabs_ineer .col-lg-4.px-1, .col-lg-4.col-6{
+	max-width: 100%;
+}
+
+.range_slider-section .progress-bar {
+    font-size: 13px;
+}
+
+.table-bl .col-lg-4:first-child, .table-bl .col-lg-4:last-child, .table-bl .col-lg-4:nth-child(2),  .table-bl .col-lg-4:nth-child(3),
+ .table-bl .col-lg-4:nth-child(4) {
+    padding: 2px 2px!important;
+}
+
+
+.booking_email {
+    margin-top: 90px;
+    padding: 0 50px!important;
+}
+
+.table-bl{
+	flex-wrap: inherit!important;
+}
+
+.popup-on-hover .img{
+	z-index: auto!important;
+}
+
+.popup-on-hover .hello ol {
+    margin-left: 10px!important;
+}
+
+.popup-on-hover .hello span {
+    box-shadow: 0 0 10px;
+}
+
+/*======= 13/12/2022 ========*/
+
+
+.actual-spend h3 {
+    font-size: 12px!important;
+}
+
+.tab-pane textarea.action_note{
+	height: 35px;
+}
+
+.table-bl .col-lg-4 {
+    max-width: 200px;
+    padding: 2px;
+    min-width: 200px;
+}
+
+.main-table-bl {
+    overflow-x: scroll;
+}
+
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width:1023px) { 
+
+.Action_Notes p {
+    line-height: 67px;
+}
+/*======= 13/12/2022 ========*/
+
+.range_slider-section .progress {
+    height: 30px;
+}
+
+.tabs_ineer .col-lg-4.px-1, .col-lg-4.col-6{
+	max-width: 100%;
+}
+
+.range_slider-section .progress-bar {
+    font-size: 13px;
+}
+
+.table-bl .col-lg-4:first-child, .table-bl .col-lg-4:last-child, .table-bl .col-lg-4:nth-child(2),  .table-bl .col-lg-4:nth-child(3),
+ .table-bl .col-lg-4:nth-child(4) {
+    padding: 2px !important;
+}
+
+/*.booking {
+    margin-top: 50px;
+}
+*/
+.booking_email {
+    margin-top: 90px;
+    padding: 0 50px!important;
+}
+
+/*.popup-on-hover .hello {
+    position: absolute!important;
+    height: auto!important;
+    width: 600px!important;
+    z-index: 2!important;
+    right: 45px!important;
+    top: 27px!important;
+    left: unset!important;
+    padding-left: 0!important;
+    transform: translate(12%)!important;
+}*/
+
+.popup-on-hover .img{
+	z-index: auto!important;
+}
+
+.popup-on-hover .hello ol {
+    margin-left: 10px!important;
+}
+
+.popup-on-hover .hello span {
+    box-shadow: 0 0 10px;
+}
+
+/*======= 13/12/2022 ========*/
+
+
+
+.table-bl .col-lg-4 {
+    max-width: 20%!important;
+    padding: 2px;
+    margin: auto;
+}
+
+.actual-spend h3 {
+    font-size: 12px!important;
+}
+
+.tab-pane textarea.action_note{
+	height: 35px;
+}
+
+}
+
+
+@media screen and (min-width:1024px) and (max-width:1365px) { 
+.booking_email {
+    margin-top: 90px;
+    padding: 0 50px!important;
+}
+}
+
+
+
